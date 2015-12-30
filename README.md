@@ -1,6 +1,6 @@
-# Project Name - Spark Class
+# Project Name
 
-Creating very basic class definitions to be used with Cisco Spark
+Spark Class - Creating very basic class definitions to be used with Cisco Spark. No error checking on inputs but most of the functions are checking the response code from the HTTP code. See the API documentation at developer.ciscospark.com for more details.
 
 ## Installation
 
